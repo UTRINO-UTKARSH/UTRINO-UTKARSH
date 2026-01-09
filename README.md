@@ -48,9 +48,9 @@
 
 ## 🎯 Upcoming Learning Targets
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) - for deeper understanding of OOP and performance-oriented programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) - to strengthen core CS concepts and backend foundations
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-0A0A0A?style=for-the-badge&logo=thealgorithms&logoColor=white) - to improve problem-solving and interview readiness
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) - for deeper understanding of OOP and performance-oriented programming
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) - to strengthen core CS concepts and backend foundations
+- ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-0A0A0A?style=for-the-badge&logo=thealgorithms&logoColor=white) - to improve problem-solving and interview readiness
 
 > Focused on building strong fundamentals alongside practical development 🚀
 
