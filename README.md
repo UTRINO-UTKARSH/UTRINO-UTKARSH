@@ -20,6 +20,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -43,6 +44,18 @@
 > More projects coming as I grow 🚀
 ---
 
+---
+
+## 🎯 Upcoming Learning Targets
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) - for deeper understanding of OOP and performance-oriented programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) - to strengthen core CS concepts and backend foundations
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-0A0A0A?style=for-the-badge&logo=thealgorithms&logoColor=white) - to improve problem-solving and interview readiness
+
+> Focused on building strong fundamentals alongside practical development 🚀
+
+
+---
 ## 📊 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=UTRINO-UTKARSH&theme=tokyonight&hide_border=true)
