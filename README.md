@@ -59,7 +59,8 @@
 
 ## 📈 GitHub Stats
 
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UTRINO-UTKARSH&show_icons=true&theme=tokyonight)
+![Utkarsh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UTRINO-UTKARSH&show_icons=true&theme=tokyonight)
+
 
 
 ---
