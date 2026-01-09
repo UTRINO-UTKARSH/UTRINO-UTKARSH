@@ -50,19 +50,9 @@
 - 📚 **UTRINO Library** – Book search website  
 - 🌦️ **Weather App** – API-based application  
 - 🌐 **Portfolio Website**  
-- 🎮 **Game-based Learning Prototype**  
-- ⚛️ **React Projects** – Component-based frontend apps  
+- 🎮 **Game-based Learning Prototype**   
 
 > More projects coming as I grow 🚀
-
----
-
-## 📈 GitHub Stats
-
-![Utkarsh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UTRINO-UTKARSH&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UTRINO-UTKARSH&layout=compact&theme=tokyonight)
-
 
 
 ---
