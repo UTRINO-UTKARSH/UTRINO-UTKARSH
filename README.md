@@ -58,7 +58,7 @@
 ---
 ## 📊 GitHub Streak
 
-![GitHub Streak]('https://streak-stats.demolab.com/?user=UTRINO-UTKARSH&theme=tokyonight')
+<img src="https://streak-stats.demolab.com/api?user=UTRINO-UTKARSH&theme=tokyonight" />
 
 
 ---
