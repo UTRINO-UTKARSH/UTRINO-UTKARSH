@@ -34,10 +34,10 @@
 
 ## 📌 Projects
 
-- 📚 **UTRINO Library** – Book search website  
+- 🎮 **Game-based Learning Prototype for sih**   
+- 📚 **Blood Donor database** – a simulation of making appointments and registring for blood_donnation  
 - 🌦️ **Weather App** – API-based application  
 - 🌐 **Portfolio Website**  
-- 🎮 **Game-based Learning Prototype**   
 
 > More projects coming as I grow 🚀
 ---
