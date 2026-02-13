@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=UTRINO-UTKARSH&color=blue)
+
 # 👋 Hi, I'm Utkarsh Bhaskar (UTRINO)
 
 🚀 Aspiring **Full Stack Developer**  
