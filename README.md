@@ -55,11 +55,14 @@
 
 > Focused on building strong fundamentals alongside practical development 🚀
 
+---
+## GitHub Stats
+
+(https://github-readme-stats.vercel.app/api?username=UTRINO-UTKARSH&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## 📊 GitHub Streak
-
-<img src="https://streak-stats.demolab.com/api?user=UTRINO-UTKARSH&theme=tokyonight" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UTRINO-UTKARSH&theme=tokyonight)](https://github.com/denvercoder1/github-readme-streak-stats)
 
 ---
 ##Top Languages...
