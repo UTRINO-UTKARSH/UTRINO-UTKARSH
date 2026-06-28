@@ -58,7 +58,7 @@
 ---
 ## GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=UTRINO-UTKARSH&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UTRINO-UTKARSH&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## 📊 GitHub Streak
