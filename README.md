@@ -134,18 +134,10 @@ Personal developer portfolio showcasing projects and skills.
 <br/>
 
 ## 📊 GitHub Analytics
+![](https://github-readme-stats.shion.dev/api?username=UTRINO-UTKARSH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=UTRINO-UTKARSH&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=UTRINO-UTKARSH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=UTRINO-UTKARSH&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UTRINO-UTKARSH&theme=dark&hide_border=true&background=0D1117&stroke=FF6600&ring=FF6600&fire=FF6600&currStreakLabel=FF6600" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTRINO-UTKARSH&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" width="60%"/>
-
-<br/><br/>
 
 ## 🤝 Let's Connect
 
