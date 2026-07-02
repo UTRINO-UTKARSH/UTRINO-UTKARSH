@@ -147,13 +147,6 @@ Personal developer portfolio showcasing projects and skills.
 
 <br/><br/>
 
-### 💬 Dev Quote
-<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="Developer Joke / Quote" width="60%"/>
-
-### 💬 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
-
 ## 🤝 Let's Connect
 
 <div align="center">
