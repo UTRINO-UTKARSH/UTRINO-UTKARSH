@@ -133,18 +133,23 @@ Personal developer portfolio showcasing projects and skills.
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UTRINO-UTKARSH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTRINO-UTKARSH&layout=compact&theme=tokyonight&hide_border=true" width="34%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UTRINO-UTKARSH&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=UTRINO-UTKARSH&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9" width="100%"/>
 
 <br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UTRINO-UTKARSH&theme=dark&hide_border=true&background=0D1117&stroke=FF6600&ring=FF6600&fire=FF6600&currStreakLabel=FF6600" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTRINO-UTKARSH&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" width="60%"/>
+
+<br/><br/>
+
+### 💬 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
 
 ## 🤝 Let's Connect
 
