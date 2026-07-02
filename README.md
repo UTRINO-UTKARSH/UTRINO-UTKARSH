@@ -102,7 +102,7 @@ Game-based learning prototype built for Smart India Hackathon.
 
 `JavaScript` `React` `Game Logic`
 
-[🔗 View Repo](https://github.com/UTRINO-UTKARSH/sih-prototype)
+[🔗 View Repo](https://github.com/UTRINO-UTKARSH/physics-revision-game-prototype.git)
 
 </td>
 <td width="50%" valign="top">
@@ -112,7 +112,7 @@ Personal developer portfolio showcasing projects and skills.
 
 `React` `Tailwind CSS`
 
-[🔗 View Repo](https://github.com/UTRINO-UTKARSH/portfolio)
+[🔗 View Repo](https://github.com/UTRINO-UTKARSH/Utkarsh-s-portfolio-updated.git)
 
 </td>
 </tr>
