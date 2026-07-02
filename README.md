@@ -133,7 +133,7 @@ Personal developer portfolio showcasing projects and skills.
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=UTRINO-UTKARSH&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9" width="100%"/>
 
@@ -146,6 +146,9 @@ Personal developer portfolio showcasing projects and skills.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTRINO-UTKARSH&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" width="60%"/>
 
 <br/><br/>
+
+### 💬 Dev Quote
+<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="Developer Joke / Quote" width="60%"/>
 
 ### 💬 Random Dev Quote
 
