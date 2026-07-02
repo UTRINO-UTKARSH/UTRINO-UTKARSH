@@ -82,7 +82,7 @@ Emergency Healthcare Coordination Platform for India — connecting donors, hosp
 
 `React` `Tailwind CSS` `Node.js` `REST APIs`
 
-[🔗 View Repo](https://github.com/UTRINO-UTKARSH/blood-net)
+[🔗 View Repo](https://github.com/UTRINO-UTKARSH/Blood.Net.git)
 
 </td>
 <td width="50%" valign="top">
@@ -91,8 +91,6 @@ Emergency Healthcare Coordination Platform for India — connecting donors, hosp
 API-integrated weather application with live data fetching and clean UI.
 
 `JavaScript` `Weather API` `HTML/CSS`
-
-[🔗 View Repo](https://github.com/UTRINO-UTKARSH/weather-app)
 
 </td>
 </tr>
