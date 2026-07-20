@@ -110,7 +110,7 @@ Game-based learning prototype built for Smart India Hackathon.
 ### 🌐 Portfolio Website
 Personal developer portfolio showcasing projects and skills.
 
-`React` `Tailwind CSS`
+`HTML` `CSS`
 
 [🔗 View Repo](https://github.com/UTRINO-UTKARSH/Utkarsh-s-portfolio-updated.git)
 
